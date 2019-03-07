@@ -20,4 +20,4 @@ function countcharPositioning(phrase) {
    
    
    
-   console.log(countcharPositioning('lighthouse in the house'));
+   console.log(('lighthouse in the house'));
